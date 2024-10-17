@@ -52,4 +52,4 @@
             echo "<p>Form tidak valid atau belum disubmit.</p>";
         }
         ?>
-        <a href="tugasp4.php">kembali ke form</a>
+        <a href="index.php">kembali ke form</a>
